@@ -10,4 +10,5 @@ Key Features of this framework
 7. Utility files for common method
 8. Property files.
 9. MongoDB connection
+10. fetch data from mongodb
 
