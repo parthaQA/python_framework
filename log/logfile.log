@@ -524,3 +524,130 @@
 2022-03-08 17:20:17,357 :INFO : login : Login successful
 2022-03-08 17:22:37,641 :INFO : <module> : values ::: 
 2022-03-08 17:22:46,528 :INFO : login : Login successful
+2022-03-28 17:41:29,314 :INFO : <module> : values ::: 
+2022-03-28 17:41:29,453 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
+2022-03-28 18:06:12,007 :INFO : <module> : values ::: 
+2022-03-28 18:06:20,121 :INFO : login : Login successful
+2022-03-28 18:17:18,317 :INFO : <module> : values ::: 
+2022-03-28 18:17:26,123 :INFO : login : Login successful
+2022-03-29 16:00:37,441 :INFO : <module> : values ::: 
+2022-03-29 16:00:44,351 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
+2022-03-29 16:13:48,920 :INFO : <module> : values ::: 
+2022-03-29 16:13:49,074 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
+2022-03-29 16:19:00,548 :INFO : __init__ : login failed
+2022-03-29 16:19:30,977 :INFO : __init__ : login failed
+2022-03-29 16:19:30,986 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 16:22:52,938 :INFO : __init__ : login failed
+2022-03-29 16:23:23,116 :INFO : __init__ : login failed
+2022-03-29 16:23:23,129 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 16:28:56,789 :INFO : __init__ : login failed
+2022-03-29 16:29:26,828 :INFO : __init__ : login failed
+2022-03-29 16:29:26,838 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 16:33:02,945 :INFO : __init__ : login failed
+2022-03-29 16:33:33,464 :INFO : __init__ : login failed
+2022-03-29 16:33:33,477 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 16:36:33,497 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 16:38:29,474 :INFO : __init__ : login failed
+2022-03-29 16:38:29,485 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 16:42:05,425 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 17:04:42,865 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 17:38:20,875 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 17:40:04,503 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 17:44:20,273 :INFO : <module> : values ::: 
+2022-03-29 17:44:21,285 :INFO : <module> : values ::: 
+2022-03-29 17:49:11,054 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 17:57:31,523 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 17:59:35,048 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 18:10:41,522 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 18:11:35,075 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 18:13:43,285 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 18:55:38,796 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:03:11,412 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:08:46,368 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:11:17,595 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:14:08,181 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:16:04,199 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:19:11,650 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:20:49,251 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:26:52,829 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:28:52,505 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:34:53,606 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:39:05,346 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:41:22,946 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:44:00,632 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:45:40,109 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 19:47:05,532 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:02:16,793 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:05:28,594 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:06:53,777 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:09:59,952 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:12:31,925 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:15:12,988 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:28:20,232 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:31:39,502 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:38:22,144 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:40:42,118 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:48:44,746 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 20:57:32,578 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-29 21:09:17,304 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 12:37:07,069 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 12:39:21,958 :INFO : test_login : Login Successful
+2022-03-30 12:39:29,712 :INFO : test_login : test passed
+2022-03-30 12:39:59,839 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 12:40:31,493 :INFO : test_login : Login Successful
+2022-03-30 12:40:39,274 :INFO : test_login : test passed
+2022-03-30 12:57:58,114 :INFO : test_login : Login Successful
+2022-03-30 12:58:05,882 :INFO : test_login : test passed
+2022-03-30 13:36:04,539 :INFO : test_login : Login Successful
+2022-03-30 13:36:12,429 :INFO : test_login : test passed
+2022-03-30 13:36:12,665 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 13:38:45,767 :INFO : test_login : Login Successful
+2022-03-30 13:38:53,619 :INFO : test_login : test passed
+2022-03-30 13:38:53,977 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 13:42:28,353 :INFO : test_login : Login Successful
+2022-03-30 13:42:35,650 :INFO : test_login : test passed
+2022-03-30 13:42:41,935 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 13:44:00,355 :INFO : test_login : Login Successful
+2022-03-30 13:44:08,311 :INFO : test_login : test passed
+2022-03-30 13:58:51,084 :INFO : test_login : Login Successful
+2022-03-30 13:58:58,990 :INFO : test_login : test passed
+2022-03-30 14:00:11,799 :INFO : test_login : Login Successful
+2022-03-30 14:00:19,691 :INFO : test_login : test passed
+2022-03-30 14:01:48,722 :INFO : test_login : Login Successful
+2022-03-30 14:01:56,052 :INFO : test_login : test passed
+2022-03-30 14:03:11,941 :INFO : test_login : Login Successful
+2022-03-30 14:03:19,922 :INFO : test_login : test passed
+2022-03-30 14:04:07,814 :INFO : test_login : Login Successful
+2022-03-30 14:04:15,687 :INFO : test_login : test passed
+2022-03-30 14:13:46,539 :INFO : test_login : Login Successful
+2022-03-30 14:13:54,467 :INFO : test_login : test passed
+2022-03-30 14:35:51,711 :INFO : test_login : Login Successful
+2022-03-30 14:35:59,425 :INFO : test_login : test passed
+2022-03-30 14:36:49,078 :INFO : test_login : Login Successful
+2022-03-30 14:36:56,958 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 14:41:39,936 :INFO : test_login : Login Successful
+2022-03-30 14:41:47,715 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 15:58:25,816 :INFO : test_login : Login Successful
+2022-03-30 15:59:03,216 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 16:03:05,909 :INFO : test_login : Login Successful
+2022-03-30 16:03:48,275 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 16:05:28,288 :INFO : test_login : Login Successful
+2022-03-30 16:07:29,165 :INFO : test_login : Login Successful
+2022-03-30 16:12:36,999 :INFO : test_login : Login Successful
+2022-03-30 16:13:18,436 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
+2022-03-30 16:15:00,642 :INFO : test_login : Login Successful
+2022-03-30 16:17:23,726 :INFO : test_login : Login Successful
+2022-03-30 16:28:05,996 :INFO : test_login : Login Successful
+2022-03-30 16:38:35,318 :INFO : test_login : Login Successful
+2022-03-30 16:44:50,776 :INFO : test_login : Login Successful
+2022-03-30 16:45:59,374 :INFO : test_login : Login Successful
+2022-03-30 16:48:52,071 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 16:52:28,967 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 17:09:19,950 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 17:12:46,386 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 17:19:37,916 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 17:23:47,223 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 17:23:54,319 :INFO : test_Gmail_Operations : email sent
+2022-03-30 17:23:54,659 :INFO : test_Gmail_Operations : verified email is in social tab
+2022-03-30 17:23:59,118 :INFO : test_Gmail_Operations : verified email subject
+2022-03-30 17:23:59,166 :INFO : test_Gmail_Operations : verfied email body

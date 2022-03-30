@@ -23,6 +23,8 @@ def pytest_addoption(parser):
         "--browserName", action="store", default="chrome"
     )
 
+
+
 log = Base_class.get_logger()
 
 @pytest.fixture()
@@ -44,8 +46,6 @@ def fetch_test_data_generate_token():
 @pytest.fixture(scope="class")
 def setup(request):
     global driver
-   # config = configparser.RawConfigParser()
-    # config.read("../properties/environment.properties")
     config = CommonUtils.read_prop_file()
     browser_name = request.config.getoption("browserName")
     if browser_name == config.get('details', 'chromeBrowser'):
@@ -59,6 +59,23 @@ def setup(request):
     yield driver  # Run all other pytest_runtest_makereport non wrapped hooks
     time.sleep(2)
     driver.quit()
+
+@pytest.fixture(scope="class")
+def gmail_setup(request):
+    global driver
+    config = CommonUtils.read_prop_file()
+    browser_name = request.config.getoption("browserName")
+    if browser_name == config.get('details', 'chromeBrowser'):
+        driver = webdriver.Chrome(ChromeDriverManager().install())
+    elif browser_name == config.get('details', 'firefoxBrowser'):
+        driver = webdriver.Firefox(GeckoDriverManager().install())
+    driver.maximize_window()
+    driver.get(config.get('details', 'gmail_url'))
+    request.cls.driver = driver
+    yield driver  # Run all other pytest_runtest_makereport non wrapped hooks
+    time.sleep(3) #some wait time to hold the execution
+    driver.quit()
+
 
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport():

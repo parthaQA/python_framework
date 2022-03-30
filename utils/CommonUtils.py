@@ -1,4 +1,5 @@
 import configparser
+from datetime import datetime
 
 import allure
 from allure_commons.types import AttachmentType
@@ -17,15 +18,16 @@ class CommonUtils:
     def __init__(self, driver):
         self.driver = driver
         self.action = ActionChains(self.driver)
+        self.wait = WebDriverWait(self.driver, 30)
 
     @classmethod
     def mouseHover(cls, *ele):
         element = cls.driver.find_element(*ele)
         cls.action.move_to_element(element).perform()
 
-
+    # This method wait for the visiblity of element
     def wait_for_visibility_element(self, *webelement):
-        element = WebDriverWait(self.driver, 30).until(
+        element = self.wait.until(
             EC.visibility_of_element_located(*webelement))
         return element
 
@@ -35,9 +37,9 @@ class CommonUtils:
             EC.frame_to_be_available_and_switch_to_it(frame))
         return web
 
-    @classmethod
-    def wait_for_presence_element(cls, *webelement, time_unit):
-        element = WebDriverWait(cls.driver, time_unit).until(
+
+    def wait_for_presence_element(self, *webelement):
+        element = self.wait.until(
             EC.presence_of_element_located(*webelement))
         return element
 
@@ -65,7 +67,13 @@ class CommonUtils:
         config.read("../properties/environment.properties")
         return config
 
+    def move_element_to(self, *webelement):
+        return self.action.move_to_element(*webelement)
 
-    # def capture(self, name):
-    #     self.driver.get_screenshot_as_file(name)
-    #     allure.attach(self.driver.get_screenshot_as_png(), name=name, attachment_type=AttachmentType.PNG)
+    # This method calculates current time and returns it
+    def current_time(self):
+        now = datetime.now()
+        print("now =", now)
+        # dd/mm/YY H:M:S
+        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+        return dt_string.split(" ")[1]
