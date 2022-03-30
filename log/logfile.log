@@ -651,3 +651,9 @@
 2022-03-30 17:23:54,659 :INFO : test_Gmail_Operations : verified email is in social tab
 2022-03-30 17:23:59,118 :INFO : test_Gmail_Operations : verified email subject
 2022-03-30 17:23:59,166 :INFO : test_Gmail_Operations : verfied email body
+2022-03-30 18:07:03,861 :INFO : <module> : Test_Gmail_Operations.py_Test_Gmail_Operations_test_Gmail_Operations.png
+2022-03-30 18:07:40,188 :INFO : test_Gmail_Operations : Login Successful
+2022-03-30 18:07:47,125 :INFO : test_Gmail_Operations : email sent
+2022-03-30 18:07:47,466 :INFO : test_Gmail_Operations : verified email is in social tab
+2022-03-30 18:07:51,948 :INFO : test_Gmail_Operations : verified email subject
+2022-03-30 18:07:52,004 :INFO : test_Gmail_Operations : verfied email body
