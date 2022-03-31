@@ -11,7 +11,7 @@ to run the code without generating report
 
 command : pytest -s -v Test_Recarga.py
 
-Run code and generate report in resource directory
+Run code and generate report in report directory
 command 1 : pytest -s -v  --alluredir=../reports Test_Recarga.py
 command 2 : allure serve D:\Undostres_Automation\reports
 
