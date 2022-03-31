@@ -1,6 +1,6 @@
 
 
-Test case : Test_Mobile_Recharge.py
+Test case : Test_Recarga.py
 Pages:
 Home_Screen.py
 Checkout_Screen.py
