@@ -3,7 +3,7 @@ import logging
 import pytest
 
 
-@pytest.mark.usefixtures("gmail_setup")
+@pytest.mark.usefixtures("setup")
 class Base_class:
 
     @staticmethod

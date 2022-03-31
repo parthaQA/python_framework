@@ -1,0 +1,15 @@
+[32mINFO    [0m <module>:conftest.py:33 initializing chrome browser
+[32mINFO    [0m WDM:logger.py:27 
+
+[32mINFO    [0m WDM:logger.py:27 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:27 Current google-chrome version is 99.0.4844
+[32mINFO    [0m WDM:logger.py:27 Get LATEST chromedriver version for 99.0.4844 google-chrome
+[32mINFO    [0m WDM:logger.py:27 Driver [C:\Users\ParthaS\.wdm\drivers\chromedriver\win32\99.0.4844.51\chromedriver.exe] found in cache
+[32mINFO    [0m <module>:conftest.py:42 Launch undostres application and open home page
+[32mINFO    [0m Home_Screen:Home_Screen.py:28 title is verified
+[32mINFO    [0m Home_Screen:Home_Screen.py:42 navigating to checkout screen
+[32mINFO    [0m Checkout_screen:Checkout_screen.py:49 checkout done, moving to pop up screen
+[32mINFO    [0m Checkout_screen:Checkout_screen.py:54 Popup screen appears
+[32mINFO    [0m Checkout_screen:Checkout_screen.py:68 dismissed permit notification
+[32mINFO    [0m Checkout_screen:Checkout_screen.py:72 captured the recharge success message
+[32mINFO    [0m test_recarga:Test_Recarga.py:38 test case execution is completed

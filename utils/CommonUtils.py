@@ -1,15 +1,11 @@
 import configparser
-from datetime import datetime
+import time
 
-import allure
-from allure_commons.types import AttachmentType
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-
 import pytest
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
-
 
 
 @pytest.mark.usefixtures("setup")
@@ -20,60 +16,33 @@ class CommonUtils:
         self.action = ActionChains(self.driver)
         self.wait = WebDriverWait(self.driver, 30)
 
-    @classmethod
-    def mouseHover(cls, *ele):
-        element = cls.driver.find_element(*ele)
-        cls.action.move_to_element(element).perform()
-
-    # This method wait for the visiblity of element
+    # This method wait for element present in DOM and also visible
     def wait_for_visibility_element(self, *webelement):
-        element = self.wait.until(
+        return self.wait.until(
             EC.visibility_of_element_located(*webelement))
-        return element
 
-    @classmethod
-    def switch_to_iframe(cls, frame, time_unit):
-        web = WebDriverWait(cls.driver, time_unit).until(
+    # this method search for iframe and then switches to it
+    def switch_to_iframe(self, frame):
+        self.wait.until(
             EC.frame_to_be_available_and_switch_to_it(frame))
-        return web
 
+    # set the screen to full to avoid any screen size issue.
+    def set_full_screen(self):
+        self.driver.fullscreen_window()
 
+    # this mehtod search for element present in DOM
     def wait_for_presence_element(self, *webelement):
-        element = self.wait.until(
+        return self.wait.until(
             EC.presence_of_element_located(*webelement))
-        return element
 
-    @classmethod
-    def element_to_be_clickable(cls, *webelement, time_unit):
-        element = WebDriverWait(cls.driver, time_unit).until(
-            EC.element_to_be_clickable(*webelement))
-        return element
+    # this method return true if title is found else returns false
+    def title_is(self, title):
+        return self.wait.until(
+            EC.title_contains(title))
 
-    @classmethod
-    def alert_is_present(cls, time_unit):
-        element = WebDriverWait(cls.driver, time_unit).until(
-            EC.alert_is_present())
-        return element
-
-    @classmethod
-    def title_is(cls, title, time_unit):
-        element = WebDriverWait(cls.driver, time_unit).until(
-            EC.title_is(title))
-        return element
-
+    # this method reads the property file
     @classmethod
     def read_prop_file(cls):
         config = configparser.RawConfigParser()
         config.read("../properties/environment.properties")
         return config
-
-    def move_element_to(self, *webelement):
-        return self.action.move_to_element(*webelement)
-
-    # This method calculates current time and returns it
-    def current_time(self):
-        now = datetime.now()
-        print("now =", now)
-        # dd/mm/YY H:M:S
-        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-        return dt_string.split(" ")[1]

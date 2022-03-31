@@ -1,659 +1,132 @@
-2022-02-24 14:14:58,458 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 14:47:34,830 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 14:59:28,244 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 15:08:23,526 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 15:11:59,097 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:20:42,530 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:22:20,725 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:24:27,076 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:30:35,855 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:33:30,855 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:34:48,318 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:38:44,997 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:43:58,255 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:49:31,236 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:54:50,227 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 16:57:55,271 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 17:12:14,041 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 17:49:17,638 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 17:56:01,055 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:12:25,383 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:17:58,258 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:18:19,242 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:18:19,242 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:30:23,383 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:34:05,861 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:39:42,855 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:46:18,760 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:50:33,296 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:51:48,012 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 18:54:43,316 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:00:35,503 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:03:22,490 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:11:35,421 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:14:47,128 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:16:14,741 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:22:46,616 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:33:30,999 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:35:22,090 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:37:44,582 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:39:43,556 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:41:26,891 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:41:58,125 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:45:09,598 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:50:07,115 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 19:59:49,368 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:00:37,379 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:01:17,329 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:02:18,796 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:03:34,606 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:05:24,222 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:10:50,966 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:15:57,157 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-24 20:18:39,968 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-25 12:56:46,234 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-25 13:01:35,377 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-25 13:03:11,530 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-25 13:05:04,943 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-26 14:27:59,099 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-26 14:32:02,363 :INFO : fetch_test_data : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-26 14:39:18,802 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-26 14:45:27,106 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-02-26 14:45:34,371 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-01 16:06:05,986 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:15:14,504 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:18:31,974 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:22:18,105 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:23:42,089 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:28:04,604 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:29:15,920 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:35:49,648 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:44:23,462 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:49:27,250 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:58:49,037 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 16:59:06,032 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-01 18:03:10,534 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 11:35:04,689 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 12:20:36,147 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:20:36,148 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:20:36,156 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 12:21:19,270 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:21:19,270 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:23:56,069 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:23:56,069 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:23:56,078 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 12:43:07,021 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:43:07,021 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:47:30,846 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:47:30,846 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:49:49,400 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:49:49,400 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:51:27,639 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:51:27,640 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:52:26,316 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:52:26,316 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:56:58,249 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:56:58,249 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 12:56:59,106 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 12:58:14,840 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 12:58:14,840 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 13:00:42,513 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'email': 'ssotestotk.otk10@shoppertrak.com', 'password': 'Saml!123'}
-2022-03-02 13:00:42,513 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'api_email': 'Soundariyalakshmi.e@shoppertrak.com', 'api_password': 'Today@12345', 'tenantId': 'sso-test-newTenant-nulqd'}
-2022-03-02 13:00:43,339 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:01:58,033 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:34:57,470 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:35:32,510 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:38:48,906 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:40:26,523 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:53:30,494 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 13:55:58,422 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 14:22:41,037 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 14:28:47,874 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 14:43:54,833 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 14:46:50,675 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 14:47:42,819 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 15:00:18,779 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 15:04:00,033 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_generate_token.png
-2022-03-02 20:14:42,152 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-02 20:14:42,152 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'tenantId': 'sso-test-newTenant-nulqd', 'email': 'Soundariyalakshmi.e@shoppertrak.com', 'password': 'Today@12345'}
-2022-03-02 20:14:42,169 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-02 20:14:57,685 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-02 20:14:57,685 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'tenantId': 'sso-test-newTenant-nulqd', 'email': 'Soundariyalakshmi.e@shoppertrak.com', 'password': 'Today@12345'}
-2022-03-02 20:14:57,691 :INFO : <module> : Test_sample.py_Test_sample_test_edit.png
-2022-03-02 20:17:53,916 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-02 20:17:53,917 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'tenantId': 'sso-test-newTenant-nulqd', 'email': 'Soundariyalakshmi.e@shoppertrak.com', 'password': 'Today@12345'}
-2022-03-02 20:17:53,929 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-02 20:22:53,369 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-02 20:22:53,370 :INFO : <module> : {'_id': ObjectId('621f1143a3e67428e48b310b'), 'tenantId': 'sso-test-newTenant-nulqd', 'email': 'Soundariyalakshmi.e@shoppertrak.com', 'password': 'Today@12345'}
-2022-03-02 20:35:17,306 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-02 20:35:26,648 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-02 20:40:10,650 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-02 20:40:18,349 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-02 20:43:12,735 :INFO : <module> : {'_id': ObjectId('507f191e810c19729de860ea'), 'ui_email': 'ssotestotk.otk10@shoppertrak.com', 'ui_password': 'Saml!123'}
-2022-03-03 14:18:43,338 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-03 14:22:40,355 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-03 14:39:40,444 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-03 14:45:23,995 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-03 15:10:26,282 :INFO : fetch_test_data : values ::: 
-2022-03-03 15:10:33,029 :INFO : login : Login successful
-2022-03-03 15:17:16,734 :INFO : fetch_test_data : values ::: 
-2022-03-03 15:17:23,229 :INFO : login : Login successful
-2022-03-03 16:47:04,138 :INFO : <module> : values ::: 
-2022-03-03 16:47:11,347 :INFO : login : Login successful
-2022-03-03 16:53:43,997 :INFO : <module> : values ::: 
-2022-03-03 17:00:50,771 :INFO : <module> : values ::: 
-2022-03-03 17:01:04,617 :INFO : <module> : values ::: 
-2022-03-03 17:01:11,606 :INFO : login : Login successful
-2022-03-03 17:07:58,069 :INFO : <module> : values ::: 
-2022-03-03 17:08:11,994 :INFO : <module> : values ::: 
-2022-03-03 17:08:19,003 :INFO : login : Login successful
-2022-03-04 14:37:31,076 :INFO : <module> : values ::: 
-2022-03-04 14:38:29,059 :INFO : <module> : values ::: 
-2022-03-04 14:41:26,375 :INFO : <module> : values ::: 
-2022-03-04 14:41:26,383 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 14:46:08,506 :INFO : <module> : values ::: 
-2022-03-04 14:46:08,510 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 14:49:32,938 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 14:57:02,632 :INFO : <module> : values ::: 
-2022-03-04 14:57:02,639 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:10:29,513 :INFO : <module> : values ::: 
-2022-03-04 15:10:29,519 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:11:42,087 :INFO : <module> : values ::: 
-2022-03-04 15:13:38,024 :INFO : <module> : values ::: 
-2022-03-04 15:13:39,036 :INFO : <module> : values ::: 
-2022-03-04 15:13:39,090 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:16:01,147 :INFO : <module> : values ::: 
-2022-03-04 15:16:02,116 :INFO : <module> : values ::: 
-2022-03-04 15:16:02,150 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:20:24,207 :INFO : <module> : values ::: 
-2022-03-04 15:20:24,815 :INFO : <module> : values ::: 
-2022-03-04 15:20:24,850 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:21:57,129 :INFO : <module> : values ::: 
-2022-03-04 15:21:57,966 :INFO : <module> : values ::: 
-2022-03-04 15:21:58,000 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:33:42,722 :INFO : <module> : values ::: 
-2022-03-04 15:33:43,745 :INFO : <module> : values ::: 
-2022-03-04 15:33:43,803 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 15:36:05,904 :INFO : <module> : values ::: 
-2022-03-04 15:36:06,532 :INFO : <module> : values ::: 
-2022-03-04 15:45:50,996 :INFO : <module> : values ::: 
-2022-03-04 15:45:52,006 :INFO : <module> : values ::: 
-2022-03-04 15:46:19,244 :INFO : <module> : values ::: 
-2022-03-04 15:46:19,850 :INFO : <module> : values ::: 
-2022-03-04 15:46:53,909 :INFO : <module> : values ::: 
-2022-03-04 15:46:54,528 :INFO : <module> : values ::: 
-2022-03-04 16:15:07,994 :INFO : <module> : values ::: 
-2022-03-04 16:15:08,965 :INFO : <module> : values ::: 
-2022-03-04 16:22:28,064 :INFO : <module> : values ::: 
-2022-03-04 16:22:29,412 :INFO : <module> : values ::: 
-2022-03-04 16:24:59,012 :INFO : <module> : values ::: 
-2022-03-04 16:24:59,627 :INFO : <module> : values ::: 
-2022-03-04 16:26:30,242 :INFO : <module> : values ::: 
-2022-03-04 16:26:30,884 :INFO : <module> : values ::: 
-2022-03-04 16:27:44,282 :INFO : <module> : values ::: 
-2022-03-04 16:27:45,223 :INFO : <module> : values ::: 
-2022-03-04 16:27:47,641 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:34:42,519 :INFO : <module> : values ::: 
-2022-03-04 16:34:43,499 :INFO : <module> : values ::: 
-2022-03-04 16:34:46,125 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:35:41,261 :INFO : <module> : values ::: 
-2022-03-04 16:35:41,876 :INFO : <module> : values ::: 
-2022-03-04 16:35:43,887 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:36:22,442 :INFO : <module> : values ::: 
-2022-03-04 16:36:23,040 :INFO : <module> : values ::: 
-2022-03-04 16:36:25,149 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:37:50,122 :INFO : <module> : values ::: 
-2022-03-04 16:37:50,659 :INFO : <module> : values ::: 
-2022-03-04 16:37:52,760 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:38:30,404 :INFO : <module> : values ::: 
-2022-03-04 16:38:30,980 :INFO : <module> : values ::: 
-2022-03-04 16:38:33,042 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:41:01,811 :INFO : <module> : values ::: 
-2022-03-04 16:41:02,684 :INFO : <module> : values ::: 
-2022-03-04 16:41:04,693 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:41:47,870 :INFO : <module> : values ::: 
-2022-03-04 16:41:48,439 :INFO : <module> : values ::: 
-2022-03-04 16:41:50,420 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:42:38,047 :INFO : <module> : values ::: 
-2022-03-04 16:42:38,623 :INFO : <module> : values ::: 
-2022-03-04 16:42:40,592 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:43:49,352 :INFO : <module> : values ::: 
-2022-03-04 16:43:49,867 :INFO : <module> : values ::: 
-2022-03-04 16:43:51,826 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:46:00,634 :INFO : <module> : values ::: 
-2022-03-04 16:46:01,154 :INFO : <module> : values ::: 
-2022-03-04 16:46:03,128 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:46:50,415 :INFO : <module> : values ::: 
-2022-03-04 16:46:51,305 :INFO : <module> : values ::: 
-2022-03-04 16:47:39,626 :INFO : <module> : values ::: 
-2022-03-04 16:47:40,159 :INFO : <module> : values ::: 
-2022-03-04 16:47:50,934 :INFO : <module> : values ::: 
-2022-03-04 16:47:51,437 :INFO : <module> : values ::: 
-2022-03-04 16:47:53,023 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:54:13,836 :INFO : <module> : values ::: 
-2022-03-04 16:54:14,684 :INFO : <module> : values ::: 
-2022-03-04 16:55:23,611 :INFO : <module> : values ::: 
-2022-03-04 16:55:24,145 :INFO : <module> : values ::: 
-2022-03-04 16:56:13,042 :INFO : <module> : values ::: 
-2022-03-04 16:56:13,608 :INFO : <module> : values ::: 
-2022-03-04 16:56:17,037 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:57:20,941 :INFO : <module> : values ::: 
-2022-03-04 16:57:21,476 :INFO : <module> : values ::: 
-2022-03-04 16:57:23,324 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:58:07,003 :INFO : <module> : values ::: 
-2022-03-04 16:58:07,501 :INFO : <module> : values ::: 
-2022-03-04 16:58:09,341 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:59:18,095 :INFO : <module> : values ::: 
-2022-03-04 16:59:18,950 :INFO : <module> : values ::: 
-2022-03-04 16:59:20,816 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 16:59:53,877 :INFO : <module> : values ::: 
-2022-03-04 16:59:54,484 :INFO : <module> : values ::: 
-2022-03-04 16:59:56,353 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:01:14,055 :INFO : <module> : values ::: 
-2022-03-04 17:01:14,575 :INFO : <module> : values ::: 
-2022-03-04 17:01:16,724 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:02:21,843 :INFO : <module> : values ::: 
-2022-03-04 17:02:22,380 :INFO : <module> : values ::: 
-2022-03-04 17:02:24,232 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:07:49,190 :INFO : <module> : values ::: 
-2022-03-04 17:07:50,083 :INFO : <module> : values ::: 
-2022-03-04 17:07:52,195 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:08:25,244 :INFO : <module> : values ::: 
-2022-03-04 17:08:25,804 :INFO : <module> : values ::: 
-2022-03-04 17:08:27,637 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:09:14,260 :INFO : <module> : values ::: 
-2022-03-04 17:09:14,857 :INFO : <module> : values ::: 
-2022-03-04 17:09:16,759 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:09:52,768 :INFO : <module> : values ::: 
-2022-03-04 17:09:53,307 :INFO : <module> : values ::: 
-2022-03-04 17:09:55,161 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:10:10,769 :INFO : <module> : values ::: 
-2022-03-04 17:10:11,277 :INFO : <module> : values ::: 
-2022-03-04 17:10:12,795 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:25:23,000 :INFO : <module> : values ::: 
-2022-03-04 17:25:23,877 :INFO : <module> : values ::: 
-2022-03-04 17:25:26,087 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:27:10,331 :INFO : <module> : values ::: 
-2022-03-04 17:27:10,886 :INFO : <module> : values ::: 
-2022-03-04 17:29:29,861 :INFO : <module> : values ::: 
-2022-03-04 17:29:30,431 :INFO : <module> : values ::: 
-2022-03-04 17:30:02,456 :INFO : <module> : values ::: 
-2022-03-04 17:30:03,004 :INFO : <module> : values ::: 
-2022-03-04 17:30:59,743 :INFO : <module> : values ::: 
-2022-03-04 17:31:00,604 :INFO : <module> : values ::: 
-2022-03-04 17:31:59,891 :INFO : <module> : values ::: 
-2022-03-04 17:32:00,441 :INFO : <module> : values ::: 
-2022-03-04 17:38:08,883 :INFO : <module> : values ::: 
-2022-03-04 17:38:09,699 :INFO : <module> : values ::: 
-2022-03-04 17:41:00,068 :INFO : <module> : values ::: 
-2022-03-04 17:41:00,628 :INFO : <module> : values ::: 
-2022-03-04 17:44:41,490 :INFO : <module> : values ::: 
-2022-03-04 17:44:42,359 :INFO : <module> : values ::: 
-2022-03-04 17:46:23,841 :INFO : <module> : values ::: 
-2022-03-04 17:46:24,380 :INFO : <module> : values ::: 
-2022-03-04 17:48:38,410 :INFO : <module> : values ::: 
-2022-03-04 17:48:38,932 :INFO : <module> : values ::: 
-2022-03-04 17:48:40,806 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:49:48,269 :INFO : <module> : values ::: 
-2022-03-04 17:49:49,106 :INFO : <module> : values ::: 
-2022-03-04 17:49:50,981 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:50:36,019 :INFO : <module> : values ::: 
-2022-03-04 17:50:36,528 :INFO : <module> : values ::: 
-2022-03-04 17:52:00,685 :INFO : <module> : values ::: 
-2022-03-04 17:52:01,200 :INFO : <module> : values ::: 
-2022-03-04 17:52:28,919 :INFO : <module> : values ::: 
-2022-03-04 17:52:29,514 :INFO : <module> : values ::: 
-2022-03-04 17:56:08,223 :INFO : <module> : values ::: 
-2022-03-04 17:56:09,099 :INFO : <module> : values ::: 
-2022-03-04 17:56:10,949 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:58:14,274 :INFO : <module> : values ::: 
-2022-03-04 17:58:14,872 :INFO : <module> : values ::: 
-2022-03-04 17:58:16,759 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 17:58:34,578 :INFO : <module> : values ::: 
-2022-03-04 17:58:35,128 :INFO : <module> : values ::: 
-2022-03-04 17:59:25,348 :INFO : <module> : values ::: 
-2022-03-04 17:59:25,865 :INFO : <module> : values ::: 
-2022-03-04 17:59:27,988 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:05:06,791 :INFO : <module> : values ::: 
-2022-03-04 18:05:08,002 :INFO : <module> : values ::: 
-2022-03-04 18:05:09,903 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:05:39,434 :INFO : <module> : values ::: 
-2022-03-04 18:05:40,144 :INFO : <module> : values ::: 
-2022-03-04 18:06:30,605 :INFO : <module> : values ::: 
-2022-03-04 18:06:31,166 :INFO : <module> : values ::: 
-2022-03-04 18:06:33,023 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:07:26,561 :INFO : <module> : values ::: 
-2022-03-04 18:07:27,083 :INFO : <module> : values ::: 
-2022-03-04 18:07:28,946 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:07:51,795 :INFO : <module> : values ::: 
-2022-03-04 18:07:52,329 :INFO : <module> : values ::: 
-2022-03-04 18:07:53,865 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:08:42,493 :INFO : <module> : values ::: 
-2022-03-04 18:08:43,007 :INFO : <module> : values ::: 
-2022-03-04 18:10:05,982 :INFO : <module> : values ::: 
-2022-03-04 18:10:06,538 :INFO : <module> : values ::: 
-2022-03-04 18:10:08,399 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:17:19,196 :INFO : <module> : values ::: 
-2022-03-04 18:17:20,117 :INFO : <module> : values ::: 
-2022-03-04 18:19:31,531 :INFO : <module> : values ::: 
-2022-03-04 18:19:32,138 :INFO : <module> : values ::: 
-2022-03-04 18:19:34,104 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:20:26,913 :INFO : <module> : values ::: 
-2022-03-04 18:20:27,456 :INFO : <module> : values ::: 
-2022-03-04 18:21:57,460 :INFO : <module> : values ::: 
-2022-03-04 18:21:57,970 :INFO : <module> : values ::: 
-2022-03-04 18:21:59,851 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:22:40,902 :INFO : <module> : values ::: 
-2022-03-04 18:22:41,768 :INFO : <module> : values ::: 
-2022-03-04 18:24:29,079 :INFO : <module> : values ::: 
-2022-03-04 18:24:29,626 :INFO : <module> : values ::: 
-2022-03-04 18:24:31,490 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:25:43,177 :INFO : <module> : values ::: 
-2022-03-04 18:25:43,722 :INFO : <module> : values ::: 
-2022-03-04 18:27:43,974 :INFO : <module> : values ::: 
-2022-03-04 18:27:44,891 :INFO : <module> : values ::: 
-2022-03-04 18:27:46,750 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:28:11,953 :INFO : <module> : values ::: 
-2022-03-04 18:28:12,453 :INFO : <module> : values ::: 
-2022-03-04 18:28:13,997 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:38:00,067 :INFO : <module> : values ::: 
-2022-03-04 18:38:01,038 :INFO : <module> : values ::: 
-2022-03-04 18:38:02,982 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:39:18,873 :INFO : <module> : values ::: 
-2022-03-04 18:39:19,401 :INFO : <module> : values ::: 
-2022-03-04 18:40:11,467 :INFO : <module> : values ::: 
-2022-03-04 18:40:12,003 :INFO : <module> : values ::: 
-2022-03-04 18:40:13,847 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:41:56,503 :INFO : <module> : values ::: 
-2022-03-04 18:41:57,057 :INFO : <module> : values ::: 
-2022-03-04 18:41:58,902 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:42:21,237 :INFO : <module> : values ::: 
-2022-03-04 18:42:21,735 :INFO : <module> : values ::: 
-2022-03-04 18:42:23,257 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:42:48,833 :INFO : <module> : values ::: 
-2022-03-04 18:42:49,317 :INFO : <module> : values ::: 
-2022-03-04 18:42:51,621 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:44:08,046 :INFO : <module> : values ::: 
-2022-03-04 18:44:08,925 :INFO : <module> : values ::: 
-2022-03-04 18:45:20,366 :INFO : <module> : values ::: 
-2022-03-04 18:45:20,927 :INFO : <module> : values ::: 
-2022-03-04 18:46:30,225 :INFO : <module> : values ::: 
-2022-03-04 18:46:30,738 :INFO : <module> : values ::: 
-2022-03-04 18:48:31,471 :INFO : <module> : values ::: 
-2022-03-04 18:48:32,034 :INFO : <module> : values ::: 
-2022-03-04 18:51:17,154 :INFO : <module> : values ::: 
-2022-03-04 18:51:18,018 :INFO : <module> : values ::: 
-2022-03-04 18:51:19,882 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:51:54,066 :INFO : <module> : values ::: 
-2022-03-04 18:51:54,586 :INFO : <module> : values ::: 
-2022-03-04 18:54:08,714 :INFO : <module> : values ::: 
-2022-03-04 18:54:09,258 :INFO : <module> : values ::: 
-2022-03-04 18:54:30,859 :INFO : <module> : values ::: 
-2022-03-04 18:54:31,447 :INFO : <module> : values ::: 
-2022-03-04 18:55:52,359 :INFO : <module> : values ::: 
-2022-03-04 18:55:52,887 :INFO : <module> : values ::: 
-2022-03-04 18:58:10,139 :INFO : <module> : values ::: 
-2022-03-04 18:58:10,949 :INFO : <module> : values ::: 
-2022-03-04 18:58:12,815 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 18:58:37,462 :INFO : <module> : values ::: 
-2022-03-04 18:58:37,978 :INFO : <module> : values ::: 
-2022-03-04 19:01:36,746 :INFO : <module> : values ::: 
-2022-03-04 19:01:37,295 :INFO : <module> : values ::: 
-2022-03-04 19:01:39,236 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 19:02:31,370 :INFO : <module> : values ::: 
-2022-03-04 19:02:31,886 :INFO : <module> : values ::: 
-2022-03-04 19:04:46,774 :INFO : <module> : values ::: 
-2022-03-04 19:04:47,617 :INFO : <module> : values ::: 
-2022-03-04 19:04:49,489 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-04 19:05:39,631 :INFO : <module> : values ::: 
-2022-03-04 19:05:40,200 :INFO : <module> : values ::: 
-2022-03-04 19:06:12,608 :INFO : <module> : Test_Generate_Token.py_Test_Generate_Token_test_file_monitoring_file.png
-2022-03-08 12:06:25,412 :INFO : <module> : values ::: 
-2022-03-08 12:06:34,780 :INFO : login : Login successful
-2022-03-08 12:06:38,835 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 12:08:27,331 :INFO : <module> : values ::: 
-2022-03-08 12:08:35,923 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 12:10:51,103 :INFO : <module> : values ::: 
-2022-03-08 12:10:59,987 :INFO : login : Login successful
-2022-03-08 13:02:27,980 :INFO : <module> : values ::: 
-2022-03-08 13:02:38,056 :INFO : login : Login successful
-2022-03-08 13:02:56,948 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:11:39,093 :INFO : <module> : values ::: 
-2022-03-08 13:11:48,241 :INFO : login : Login successful
-2022-03-08 13:12:06,282 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:14:37,756 :INFO : <module> : values ::: 
-2022-03-08 13:14:38,645 :INFO : <module> : values ::: 
-2022-03-08 13:16:31,465 :INFO : <module> : values ::: 
-2022-03-08 13:17:17,268 :INFO : login : Login successful
-2022-03-08 13:19:41,380 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:20:45,329 :INFO : <module> : values ::: 
-2022-03-08 13:20:54,779 :INFO : login : Login successful
-2022-03-08 13:21:11,402 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:22:46,476 :INFO : <module> : values ::: 
-2022-03-08 13:22:55,364 :INFO : login : Login successful
-2022-03-08 13:23:12,638 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:26:13,959 :INFO : <module> : values ::: 
-2022-03-08 13:26:22,993 :INFO : login : Login successful
-2022-03-08 13:26:39,404 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:38:38,071 :INFO : <module> : values ::: 
-2022-03-08 13:38:47,915 :INFO : login : Login successful
-2022-03-08 13:39:05,910 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:40:45,595 :INFO : <module> : values ::: 
-2022-03-08 13:40:56,655 :INFO : login : Login successful
-2022-03-08 13:41:14,408 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:47:42,068 :INFO : <module> : values ::: 
-2022-03-08 13:47:50,874 :INFO : login : Login successful
-2022-03-08 13:48:09,230 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:49:10,625 :INFO : <module> : values ::: 
-2022-03-08 13:49:19,262 :INFO : login : Login successful
-2022-03-08 13:50:58,990 :INFO : <module> : values ::: 
-2022-03-08 13:51:08,505 :INFO : login : Login successful
-2022-03-08 13:51:28,689 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 13:52:51,560 :INFO : <module> : values ::: 
-2022-03-08 13:53:02,547 :INFO : login : Login successful
-2022-03-08 13:57:35,205 :INFO : <module> : values ::: 
-2022-03-08 13:57:44,332 :INFO : login : Login successful
-2022-03-08 14:01:21,745 :INFO : <module> : values ::: 
-2022-03-08 14:01:30,958 :INFO : login : Login successful
-2022-03-08 14:01:39,053 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 14:02:24,303 :INFO : <module> : values ::: 
-2022-03-08 14:02:33,575 :INFO : login : Login successful
-2022-03-08 14:03:55,823 :INFO : <module> : values ::: 
-2022-03-08 14:04:05,602 :INFO : login : Login successful
-2022-03-08 14:20:03,865 :INFO : <module> : values ::: 
-2022-03-08 14:20:13,075 :INFO : login : Login successful
-2022-03-08 14:25:51,228 :INFO : <module> : values ::: 
-2022-03-08 14:26:00,846 :INFO : login : Login successful
-2022-03-08 14:27:47,399 :INFO : <module> : values ::: 
-2022-03-08 14:27:56,706 :INFO : login : Login successful
-2022-03-08 14:35:55,468 :INFO : <module> : values ::: 
-2022-03-08 14:36:04,625 :INFO : login : Login successful
-2022-03-08 14:36:24,830 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 14:37:35,068 :INFO : <module> : values ::: 
-2022-03-08 14:37:44,385 :INFO : login : Login successful
-2022-03-08 14:40:48,902 :INFO : <module> : values ::: 
-2022-03-08 14:40:57,719 :INFO : login : Login successful
-2022-03-08 14:41:17,944 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 14:43:27,746 :INFO : <module> : values ::: 
-2022-03-08 14:43:36,984 :INFO : login : Login successful
-2022-03-08 14:46:42,708 :INFO : <module> : values ::: 
-2022-03-08 14:46:52,651 :INFO : login : Login successful
-2022-03-08 14:48:23,718 :INFO : <module> : values ::: 
-2022-03-08 14:48:33,044 :INFO : login : Login successful
-2022-03-08 14:51:35,330 :INFO : <module> : values ::: 
-2022-03-08 14:51:45,138 :INFO : login : Login successful
-2022-03-08 14:54:21,669 :INFO : <module> : values ::: 
-2022-03-08 14:54:31,567 :INFO : login : Login successful
-2022-03-08 14:55:24,942 :INFO : <module> : values ::: 
-2022-03-08 14:55:33,867 :INFO : login : Login successful
-2022-03-08 15:16:01,176 :INFO : <module> : values ::: 
-2022-03-08 15:16:11,479 :INFO : login : Login successful
-2022-03-08 15:17:40,910 :INFO : <module> : values ::: 
-2022-03-08 15:17:49,699 :INFO : login : Login successful
-2022-03-08 15:19:50,055 :INFO : <module> : values ::: 
-2022-03-08 15:19:58,902 :INFO : login : Login successful
-2022-03-08 15:22:19,565 :INFO : <module> : values ::: 
-2022-03-08 15:22:28,194 :INFO : login : Login successful
-2022-03-08 15:23:14,973 :INFO : <module> : values ::: 
-2022-03-08 15:23:22,251 :INFO : login : Login successful
-2022-03-08 15:26:01,537 :INFO : <module> : values ::: 
-2022-03-08 15:26:09,429 :INFO : login : Login successful
-2022-03-08 15:27:29,082 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 15:28:02,473 :INFO : <module> : values ::: 
-2022-03-08 15:28:12,533 :INFO : login : Login successful
-2022-03-08 15:29:18,514 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 15:29:40,407 :INFO : <module> : values ::: 
-2022-03-08 15:29:49,736 :INFO : login : Login successful
-2022-03-08 15:31:06,950 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 15:31:39,661 :INFO : <module> : values ::: 
-2022-03-08 15:31:48,240 :INFO : login : Login successful
-2022-03-08 15:39:35,219 :INFO : <module> : values ::: 
-2022-03-08 15:39:35,355 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 15:40:25,373 :INFO : <module> : values ::: 
-2022-03-08 15:40:33,028 :INFO : login : Login successful
-2022-03-08 16:33:41,319 :INFO : <module> : values ::: 
-2022-03-08 16:33:48,285 :INFO : login : Login successful
-2022-03-08 16:34:04,560 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-08 16:45:47,633 :INFO : <module> : values ::: 
-2022-03-08 16:45:54,052 :INFO : login : Login successful
-2022-03-08 17:11:24,760 :INFO : <module> : values ::: 
-2022-03-08 17:11:55,413 :INFO : login : Login successful
-2022-03-08 17:17:08,277 :INFO : <module> : values ::: 
-2022-03-08 17:17:15,009 :INFO : login : Login successful
-2022-03-08 17:20:11,167 :INFO : <module> : values ::: 
-2022-03-08 17:20:17,357 :INFO : login : Login successful
-2022-03-08 17:22:37,641 :INFO : <module> : values ::: 
-2022-03-08 17:22:46,528 :INFO : login : Login successful
-2022-03-28 17:41:29,314 :INFO : <module> : values ::: 
-2022-03-28 17:41:29,453 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-28 18:06:12,007 :INFO : <module> : values ::: 
-2022-03-28 18:06:20,121 :INFO : login : Login successful
-2022-03-28 18:17:18,317 :INFO : <module> : values ::: 
-2022-03-28 18:17:26,123 :INFO : login : Login successful
-2022-03-29 16:00:37,441 :INFO : <module> : values ::: 
-2022-03-29 16:00:44,351 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-29 16:13:48,920 :INFO : <module> : values ::: 
-2022-03-29 16:13:49,074 :INFO : <module> : Test_Login.py_Test_Login_test_login.png
-2022-03-29 16:19:00,548 :INFO : __init__ : login failed
-2022-03-29 16:19:30,977 :INFO : __init__ : login failed
-2022-03-29 16:19:30,986 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 16:22:52,938 :INFO : __init__ : login failed
-2022-03-29 16:23:23,116 :INFO : __init__ : login failed
-2022-03-29 16:23:23,129 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 16:28:56,789 :INFO : __init__ : login failed
-2022-03-29 16:29:26,828 :INFO : __init__ : login failed
-2022-03-29 16:29:26,838 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 16:33:02,945 :INFO : __init__ : login failed
-2022-03-29 16:33:33,464 :INFO : __init__ : login failed
-2022-03-29 16:33:33,477 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 16:36:33,497 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 16:38:29,474 :INFO : __init__ : login failed
-2022-03-29 16:38:29,485 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 16:42:05,425 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 17:04:42,865 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 17:38:20,875 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 17:40:04,503 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 17:44:20,273 :INFO : <module> : values ::: 
-2022-03-29 17:44:21,285 :INFO : <module> : values ::: 
-2022-03-29 17:49:11,054 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 17:57:31,523 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 17:59:35,048 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 18:10:41,522 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 18:11:35,075 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 18:13:43,285 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 18:55:38,796 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:03:11,412 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:08:46,368 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:11:17,595 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:14:08,181 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:16:04,199 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:19:11,650 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:20:49,251 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:26:52,829 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:28:52,505 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:34:53,606 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:39:05,346 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:41:22,946 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:44:00,632 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:45:40,109 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 19:47:05,532 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:02:16,793 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:05:28,594 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:06:53,777 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:09:59,952 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:12:31,925 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:15:12,988 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:28:20,232 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:31:39,502 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:38:22,144 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:40:42,118 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:48:44,746 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 20:57:32,578 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-29 21:09:17,304 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 12:37:07,069 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 12:39:21,958 :INFO : test_login : Login Successful
-2022-03-30 12:39:29,712 :INFO : test_login : test passed
-2022-03-30 12:39:59,839 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 12:40:31,493 :INFO : test_login : Login Successful
-2022-03-30 12:40:39,274 :INFO : test_login : test passed
-2022-03-30 12:57:58,114 :INFO : test_login : Login Successful
-2022-03-30 12:58:05,882 :INFO : test_login : test passed
-2022-03-30 13:36:04,539 :INFO : test_login : Login Successful
-2022-03-30 13:36:12,429 :INFO : test_login : test passed
-2022-03-30 13:36:12,665 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 13:38:45,767 :INFO : test_login : Login Successful
-2022-03-30 13:38:53,619 :INFO : test_login : test passed
-2022-03-30 13:38:53,977 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 13:42:28,353 :INFO : test_login : Login Successful
-2022-03-30 13:42:35,650 :INFO : test_login : test passed
-2022-03-30 13:42:41,935 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 13:44:00,355 :INFO : test_login : Login Successful
-2022-03-30 13:44:08,311 :INFO : test_login : test passed
-2022-03-30 13:58:51,084 :INFO : test_login : Login Successful
-2022-03-30 13:58:58,990 :INFO : test_login : test passed
-2022-03-30 14:00:11,799 :INFO : test_login : Login Successful
-2022-03-30 14:00:19,691 :INFO : test_login : test passed
-2022-03-30 14:01:48,722 :INFO : test_login : Login Successful
-2022-03-30 14:01:56,052 :INFO : test_login : test passed
-2022-03-30 14:03:11,941 :INFO : test_login : Login Successful
-2022-03-30 14:03:19,922 :INFO : test_login : test passed
-2022-03-30 14:04:07,814 :INFO : test_login : Login Successful
-2022-03-30 14:04:15,687 :INFO : test_login : test passed
-2022-03-30 14:13:46,539 :INFO : test_login : Login Successful
-2022-03-30 14:13:54,467 :INFO : test_login : test passed
-2022-03-30 14:35:51,711 :INFO : test_login : Login Successful
-2022-03-30 14:35:59,425 :INFO : test_login : test passed
-2022-03-30 14:36:49,078 :INFO : test_login : Login Successful
-2022-03-30 14:36:56,958 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 14:41:39,936 :INFO : test_login : Login Successful
-2022-03-30 14:41:47,715 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 15:58:25,816 :INFO : test_login : Login Successful
-2022-03-30 15:59:03,216 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 16:03:05,909 :INFO : test_login : Login Successful
-2022-03-30 16:03:48,275 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 16:05:28,288 :INFO : test_login : Login Successful
-2022-03-30 16:07:29,165 :INFO : test_login : Login Successful
-2022-03-30 16:12:36,999 :INFO : test_login : Login Successful
-2022-03-30 16:13:18,436 :INFO : <module> : Test_Gmail_Login.py_Test_Gmail_Login_test_login.png
-2022-03-30 16:15:00,642 :INFO : test_login : Login Successful
-2022-03-30 16:17:23,726 :INFO : test_login : Login Successful
-2022-03-30 16:28:05,996 :INFO : test_login : Login Successful
-2022-03-30 16:38:35,318 :INFO : test_login : Login Successful
-2022-03-30 16:44:50,776 :INFO : test_login : Login Successful
-2022-03-30 16:45:59,374 :INFO : test_login : Login Successful
-2022-03-30 16:48:52,071 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 16:52:28,967 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 17:09:19,950 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 17:12:46,386 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 17:19:37,916 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 17:23:47,223 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 17:23:54,319 :INFO : test_Gmail_Operations : email sent
-2022-03-30 17:23:54,659 :INFO : test_Gmail_Operations : verified email is in social tab
-2022-03-30 17:23:59,118 :INFO : test_Gmail_Operations : verified email subject
-2022-03-30 17:23:59,166 :INFO : test_Gmail_Operations : verfied email body
-2022-03-30 18:07:03,861 :INFO : <module> : Test_Gmail_Operations.py_Test_Gmail_Operations_test_Gmail_Operations.png
-2022-03-30 18:07:40,188 :INFO : test_Gmail_Operations : Login Successful
-2022-03-30 18:07:47,125 :INFO : test_Gmail_Operations : email sent
-2022-03-30 18:07:47,466 :INFO : test_Gmail_Operations : verified email is in social tab
-2022-03-30 18:07:51,948 :INFO : test_Gmail_Operations : verified email subject
-2022-03-30 18:07:52,004 :INFO : test_Gmail_Operations : verfied email body
+2022-03-31 13:37:41,946 :INFO : <module> : initializing chrome browser
+2022-03-31 13:37:47,409 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:38:20,821 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 13:44:22,453 :INFO : <module> : initializing chrome browser
+2022-03-31 13:44:26,363 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:45:08,921 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 13:45:57,708 :INFO : <module> : initializing chrome browser
+2022-03-31 13:46:01,545 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:46:31,817 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 13:49:22,905 :INFO : <module> : initializing chrome browser
+2022-03-31 13:49:26,846 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:49:56,185 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 13:50:12,256 :INFO : <module> : initializing chrome browser
+2022-03-31 13:50:16,158 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:50:19,366 :INFO : Home_Screen : title is verified
+2022-03-31 13:50:23,912 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 13:50:30,164 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 13:50:31,226 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 13:50:53,927 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 13:50:54,015 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 13:50:54,015 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 13:53:16,133 :INFO : <module> : initializing chrome browser
+2022-03-31 13:53:20,305 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:53:23,621 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 13:57:41,240 :INFO : <module> : initializing chrome browser
+2022-03-31 13:57:45,195 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 13:57:48,644 :INFO : Home_Screen : title is verified
+2022-03-31 13:57:53,219 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 13:57:59,261 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 13:58:00,358 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 13:58:23,336 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 13:58:23,387 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 13:58:23,387 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 14:40:14,797 :INFO : <module> : initializing firefox browser
+2022-03-31 14:40:24,086 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 14:44:22,157 :INFO : <module> : initializing chrome browser
+2022-03-31 14:44:27,088 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 14:44:29,183 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 14:44:45,481 :INFO : <module> : initializing firefox browser
+2022-03-31 14:44:47,919 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 14:46:11,462 :INFO : <module> : initializing firefox browser
+2022-03-31 14:46:14,965 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 14:50:04,695 :INFO : <module> : initializing firefox browser
+2022-03-31 14:50:07,458 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 14:59:44,146 :INFO : <module> : initializing firefox browser
+2022-03-31 14:59:53,889 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 14:59:58,133 :INFO : Home_Screen : title is verified
+2022-03-31 15:00:06,188 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:00:09,346 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:00:09,401 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:00:44,850 :INFO : Checkout_screen : notifcaton button not displayed
+2022-03-31 15:00:44,885 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:00:44,886 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 15:02:27,252 :INFO : <module> : initializing chrome browser
+2022-03-31 15:02:30,916 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:02:35,203 :INFO : Home_Screen : title is verified
+2022-03-31 15:02:42,916 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:02:45,980 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:02:47,107 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:03:22,216 :INFO : Checkout_screen : notifcaton button not displayed
+2022-03-31 15:03:57,133 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 15:04:17,346 :INFO : <module> : initializing chrome browser
+2022-03-31 15:04:20,663 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:04:23,969 :INFO : Home_Screen : title is verified
+2022-03-31 15:04:28,158 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:04:33,828 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:04:34,586 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:05:09,624 :INFO : Checkout_screen : notifcaton button not displayed
+2022-03-31 15:05:39,650 :INFO : <module> : Test_Mobile_Recharge.py_Test_Mobile_Recharge_test_Mobile_Recharge.png
+2022-03-31 15:11:11,291 :INFO : <module> : initializing chrome browser
+2022-03-31 15:11:14,569 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:11:17,719 :INFO : Home_Screen : title is verified
+2022-03-31 15:11:19,640 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:11:27,288 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:11:27,959 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:11:52,797 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 15:11:52,840 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:11:52,840 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 15:22:52,022 :INFO : <module> : initializing chrome browser
+2022-03-31 15:22:55,337 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:22:59,226 :INFO : Home_Screen : title is verified
+2022-03-31 15:23:03,975 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:23:09,376 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:23:10,396 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:23:32,676 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 15:23:32,719 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:23:32,720 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 15:25:57,709 :INFO : <module> : initializing chrome browser
+2022-03-31 15:26:01,382 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:26:05,169 :INFO : Home_Screen : title is verified
+2022-03-31 15:26:09,438 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:26:15,334 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:26:16,012 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:26:38,221 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 15:26:38,268 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:26:38,269 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 15:39:13,782 :INFO : <module> : initializing chrome browser
+2022-03-31 15:39:17,040 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:39:20,033 :INFO : Home_Screen : title is verified
+2022-03-31 15:39:21,960 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:39:29,375 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:39:30,085 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:39:51,387 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 15:39:51,433 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:39:51,433 :INFO : test_Mobile_Recharge : test case execution is completed
+2022-03-31 15:47:20,786 :INFO : <module> : initializing chrome browser
+2022-03-31 15:47:25,027 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:47:28,404 :INFO : Home_Screen : title is verified
+2022-03-31 15:47:32,536 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:47:38,065 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:47:38,554 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:48:01,478 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 15:48:01,521 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:48:01,522 :INFO : test_recarga : test case execution is completed
+2022-03-31 15:49:07,948 :INFO : <module> : initializing chrome browser
+2022-03-31 15:49:11,308 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 15:49:14,324 :INFO : Home_Screen : title is verified
+2022-03-31 15:49:16,543 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 15:49:23,761 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 15:49:24,468 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 15:49:45,607 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 15:49:45,650 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 15:49:45,651 :INFO : test_recarga : test case execution is completed
+2022-03-31 16:12:50,713 :INFO : <module> : initializing chrome browser
+2022-03-31 16:12:53,816 :INFO : <module> : Launch undostres application and open home page
+2022-03-31 16:12:58,302 :INFO : Home_Screen : title is verified
+2022-03-31 16:13:07,774 :INFO : Home_Screen : navigating to checkout screen
+2022-03-31 16:13:11,651 :INFO : Checkout_screen : checkout done, moving to pop up screen
+2022-03-31 16:13:12,194 :INFO : Checkout_screen : Popup screen appears
+2022-03-31 16:13:34,988 :INFO : Checkout_screen : dismissed permit notification
+2022-03-31 16:13:35,023 :INFO : Checkout_screen : captured the recharge success message
+2022-03-31 16:13:35,023 :INFO : test_recarga : test case execution is completed

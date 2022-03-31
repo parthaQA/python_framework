@@ -1,23 +1,19 @@
 import configparser
+import parser
 import time
 
 import pytest
 import allure
 from allure_commons.types import AttachmentType
-from bson import ObjectId
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
-
 from base.Base_class import Base_class
 from utils.CommonUtils import CommonUtils
-from utils.DB_Utils import DB_Utils
-
-#driver = None
 
 
+#commnadline input to choose browser at runtime
+#default browser is chrome if no parameter is passed
 def pytest_addoption(parser):
     parser.addoption(
         "--browserName", action="store", default="chrome"
@@ -27,56 +23,31 @@ def pytest_addoption(parser):
 
 log = Base_class.get_logger()
 
-@pytest.fixture()
-def fetch_test_data_login():
-    data = DB_Utils.db_connect()
-    record = data.find_one({"_id": ObjectId("507f191e810c19729de860ea")}, {'_id': 0})
-    log.info("values ::: ", record)
-    return record
-
-@pytest.fixture()
-def fetch_test_data_generate_token():
-    data = DB_Utils.db_connect()
-    i = {}
-    record = data.find_one({"_id": ObjectId("621f8af972e8744c1c25f2d1")}, {'_id': 0})
-    log.info("values ::: ", record)
-    return record
-
-
+# setup and tear down method
 @pytest.fixture(scope="class")
 def setup(request):
     global driver
     config = CommonUtils.read_prop_file()
     browser_name = request.config.getoption("browserName")
     if browser_name == config.get('details', 'chromeBrowser'):
+        log.info("initializing chrome browser")
         driver = webdriver.Chrome(ChromeDriverManager().install())
     elif browser_name == config.get('details', 'firefoxBrowser'):
-        driver = webdriver.Firefox(GeckoDriverManager().install())
-
+        log.info("initializing firefox browser")
+        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+    if browser_name == None:
+        log.info("please pass the browser")
+        driver.quit()
     driver.maximize_window()
+    log.info("Launch undostres application and open home page")
     driver.get(config.get('details', 'url'))
     request.cls.driver = driver
     yield driver  # Run all other pytest_runtest_makereport non wrapped hooks
-    time.sleep(2)
-    driver.quit()
-
-@pytest.fixture(scope="class")
-def gmail_setup(request):
-    global driver
-    config = CommonUtils.read_prop_file()
-    browser_name = request.config.getoption("browserName")
-    if browser_name == config.get('details', 'chromeBrowser'):
-        driver = webdriver.Chrome(ChromeDriverManager().install())
-    elif browser_name == config.get('details', 'firefoxBrowser'):
-        driver = webdriver.Firefox(GeckoDriverManager().install())
-    driver.maximize_window()
-    driver.get(config.get('details', 'gmail_url'))
-    request.cls.driver = driver
-    yield driver  # Run all other pytest_runtest_makereport non wrapped hooks
-    time.sleep(3) #some wait time to hold the execution
     driver.quit()
 
 
+#this hooks takes the screenshot when test case is failed
+#and attached it to allure report
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport():
     outcome = yield
