@@ -1,4 +1,11 @@
-
+Key Features of this framework
+Selenium web driver with Python
+Pytest
+Page object model
+Log fie for each run
+Allure reporting plus screeshot on failure 6.Utility files for common method
+Property files.
+Conftest file for setup and teardown.
 
 Test case : Test_Recarga.py
 Pages:
@@ -6,8 +13,7 @@ Home_Screen.py
 Checkout_Screen.py
 
 
-
-to run the code without generating report
+Tto run the code without generating report
 
 command : pytest -s -v Test_Recarga.py
 
